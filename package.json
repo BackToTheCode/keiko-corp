@@ -1,0 +1,27 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "spdy": "^3.4.7",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackToTheCode/keiko-corp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BackToTheCode/keiko-corp/issues"
+  },
+  "homepage": "https://github.com/BackToTheCode/keiko-corp#readme"
+}
